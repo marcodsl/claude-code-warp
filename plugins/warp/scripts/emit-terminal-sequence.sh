@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Emits an OSC terminal escape sequence using the best available method.
 #
 # Claude Code 2.1.141 added a `terminalSequence` JSON output field for hooks,
